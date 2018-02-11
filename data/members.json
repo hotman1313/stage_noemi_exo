@@ -1,0 +1,16 @@
+{
+   "members":[
+      {
+         "login":"toto",
+         "password":"totopass"
+      },
+      {
+         "login":"dupont",
+         "password":"dupontpass"
+      },
+      {
+         "login":"admin",
+         "password":"adminpass"
+      }
+   ]
+}
